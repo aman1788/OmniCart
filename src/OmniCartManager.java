@@ -9,7 +9,7 @@ public class OmniCartManager implements ShoppingManager{
     public static ArrayList<Product> productsList = new ArrayList<>();
     private static String userInput = "";
     private static final String menu = """
-                                Westminster Shopping Manager
+                                OmniCart Shopping Manager
                                 ---------------------------- 
                                       
                       1.  Add product 
